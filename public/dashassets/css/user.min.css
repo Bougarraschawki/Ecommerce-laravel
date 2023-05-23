@@ -1,0 +1,19 @@
+.my-href:hover{
+    transform: scale(1.1)
+}
+
+#eyes{
+    margin-left: 0px;
+    margin-right: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.img-eyes:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
